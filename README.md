@@ -6,11 +6,12 @@
 
 ## 🛠 Technologies and Tools
 
-- **Frontend:** React.js, JavaScript, HTML, CSS
+- **Frontend:** React.js, JavaScript, HTML, CSS, TailwindCSS
 - **Backend:** Golang, Node.js, Express
+- **Databases:** MongoDB, MySQL, PostgreSQL 
 - **Mobile Development:** Flutter, Android
 - **DevOps:** Docker, Kubernetes
-- **Languages:** Dart, JavaScript
+- **Languages:** Dart, JavaScript, Golang, 
 
 ---
 
@@ -41,8 +42,8 @@ A full-featured chatting application developed as part of my semester 5 project.
 
 ## 🌐 Connect with Me
 
-- LinkedIn: [Prathamesh Kalekar](https://www.linkedin.com/in/prathameshkalekar)
-- Email: prathamesh.kalekar@example.com (replace with your actual email)
+- LinkedIn: [Prathamesh Kalekar](https://www.linkedin.com/in/prathamesh-kalekar-34a3a1257/)
+- Email: kalekarprathamesh19@example.com
 
 ---
 
