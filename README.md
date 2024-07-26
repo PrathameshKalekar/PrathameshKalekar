@@ -49,7 +49,7 @@ A full-featured chatting application developed as part of my semester 5 project.
 
 ## 🚀 How to Use My Projects
 
-### Library Management System
+### Common Helpful Command Line Tools
 
 1. Clone the repository:
    ```sh
