@@ -53,5 +53,6 @@ A full-featured chatting application developed as part of my semester 5 project.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/PrathameshKalekar/library-management-golang.git
-   cd library-management-golang
+   git clone https://github.com/PrathameshKalekar/common-helpful-command-line-tools.git
+   cd common-helpful-command-line-tools
+   go install
