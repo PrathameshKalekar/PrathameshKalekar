@@ -43,7 +43,7 @@ A full-featured chatting application developed as part of my semester 5 project.
 ## 🌐 Connect with Me
 
 - LinkedIn: [Prathamesh Kalekar](https://www.linkedin.com/in/prathamesh-kalekar-34a3a1257/)
-- Email: kalekarprathamesh19@example.com
+- Email: kalekarprathamesh19@gmail.com
 
 ---
 
